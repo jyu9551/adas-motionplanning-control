@@ -20,11 +20,11 @@ MATLAB, Simulink<br>
 
 
 
-## 1) Global Path Planning
+## 1️⃣ Global Path Planning
 Global Path Planning을 위한 경로 탐색 알고리즘 비교 후 A star 알고리즘 적용<br><br>
 <img src="https://github.com/user-attachments/assets/fb25a0ac-b8d4-413f-bd17-0048b65ffc73" width="40%" height="40%">
 
-## 2) Driving
+## 2️⃣ Driving
 <table>
   <tr>
     <td width=45%>
@@ -44,7 +44,7 @@ Global Path Planning을 위한 경로 탐색 알고리즘 비교 후 A star 알�
   </tr>
 </table>
 
-## 3) Parking
+## 3️⃣ Parking
 <img src="https://github.com/user-attachments/assets/90c29945-feaf-4cf2-99a7-958797673dd1" width="40%" height="40%">
 
 
