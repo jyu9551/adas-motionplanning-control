@@ -15,7 +15,7 @@ Detection Data와 Localization 정보를 기반으로 Planning과 Control을 하
 ## SW Architecture
 
 <br>
-<img src="https://github.com/user-attachments/assets/a59c2330-f737-4756-82e6-4f2e3a5eb300" width="78%" height="78%"><br><br>
+<img src="https://github.com/user-attachments/assets/a59c2330-f737-4756-82e6-4f2e3a5eb300" width="79%" height="79%"><br><br>
 
 MATLAB, Simulink<br>
 <img src="https://github.com/user-attachments/assets/79e8b57b-ceee-4dc7-a2c6-ecab1ebd8f14" width="80%" height="80%">
@@ -24,11 +24,14 @@ MATLAB, Simulink<br>
 
 ## 1) Global Path Planning
 Global Path Planning을 위한 경로 탐색 알고리즘 비교 후 A star 알고리즘 적용<br><br>
-<img src="https://github.com/user-attachments/assets/fb25a0ac-b8d4-413f-bd17-0048b65ffc73" width="50%" height="50%">
+<img src="https://github.com/user-attachments/assets/fb25a0ac-b8d4-413f-bd17-0048b65ffc73" width="40%" height="40%">
 
 ## 2) Driving
+<img src="https://github.com/user-attachments/assets/dbe79140-e5d9-492e-b744-44bad299327b" width="30%" height="30%">
 
 ## 3) Parking
+<img src="https://github.com/user-attachments/assets/90c29945-feaf-4cf2-99a7-958797673dd1" width="30%" height="30%">
+
 
 ## 시연영상
 https://youtu.be/TwMqGNApJog
