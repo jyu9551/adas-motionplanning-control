@@ -45,7 +45,7 @@ Global Path Planning을 위한 경로 탐색 알고리즘 비교 후 A star 알�
 </table>
 
 ## 3) Parking
-<img src="https://github.com/user-attachments/assets/90c29945-feaf-4cf2-99a7-958797673dd1" width="30%" height="30%">
+<img src="https://github.com/user-attachments/assets/90c29945-feaf-4cf2-99a7-958797673dd1" width="50%" height="50%">
 
 
 ## 시연영상
