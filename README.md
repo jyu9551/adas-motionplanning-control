@@ -39,7 +39,7 @@ Global Path Planning을 위한 경로 탐색 알고리즘 비교 후 A star 알�
     1. PD Speed Control<br>
     2. Pure Pursuit Steering Control<br></td>
     <td>
-    <img src="https://github.com/user-attachments/assets/dbe79140-e5d9-492e-b744-44bad299327b" width="100%" height="100%" align="center">
+    <img src="https://github.com/user-attachments/assets/dbe79140-e5d9-492e-b744-44bad299327b" width="95%" height="95%" align="center">
     </td>
   </tr>
 </table>
