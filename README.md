@@ -13,10 +13,12 @@ Detection Data와 Localization 정보를 기반으로 Planning과 Control을 하
 <img src="https://github.com/user-attachments/assets/db77e071-a570-49e5-aec3-dc25d3a6dd1e" width="50%" height="50%"> <br><br>
 
 ## SW Architecture
-<figure class="half">
-  <a href="link"><img src="https://github.com/user-attachments/assets/a59c2330-f737-4756-82e6-4f2e3a5eb300" width="55%" height="55%"></a>
-  <a href="link"><img src="https://github.com/user-attachments/assets/79e8b57b-ceee-4dc7-a2c6-ecab1ebd8f14" width="60%" height="60%"></a>
-</figure>
+
+<img src="https://github.com/user-attachments/assets/a59c2330-f737-4756-82e6-4f2e3a5eb300" width="57%" height="57%"><br><br>
+
+MATLAB, Simulink<br>
+<img src="https://github.com/user-attachments/assets/79e8b57b-ceee-4dc7-a2c6-ecab1ebd8f14" width="60%" height="60%">
+
 
 
 ## 1) Global Path Planning
