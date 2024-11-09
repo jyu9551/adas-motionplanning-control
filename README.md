@@ -14,10 +14,11 @@ Detection Data와 Localization 정보를 기반으로 Planning과 Control을 하
 
 ## SW Architecture
 
-<img src="https://github.com/user-attachments/assets/a59c2330-f737-4756-82e6-4f2e3a5eb300" width="68%" height="68%"><br><br>
+<br>
+<img src="https://github.com/user-attachments/assets/a59c2330-f737-4756-82e6-4f2e3a5eb300" width="78%" height="78%"><br><br>
 
 MATLAB, Simulink<br>
-<img src="https://github.com/user-attachments/assets/79e8b57b-ceee-4dc7-a2c6-ecab1ebd8f14" width="70%" height="70%">
+<img src="https://github.com/user-attachments/assets/79e8b57b-ceee-4dc7-a2c6-ecab1ebd8f14" width="80%" height="80%">
 
 
 
