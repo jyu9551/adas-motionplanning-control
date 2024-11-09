@@ -25,7 +25,24 @@ Global Path Planning을 위한 경로 탐색 알고리즘 비교 후 A star 알�
 <img src="https://github.com/user-attachments/assets/fb25a0ac-b8d4-413f-bd17-0048b65ffc73" width="40%" height="40%">
 
 ## 2) Driving
-<img src="https://github.com/user-attachments/assets/dbe79140-e5d9-492e-b744-44bad299327b" width="30%" height="30%">
+<table>
+  <tr>
+    <td width=50%>
+    [Local Path Planning]<br>
+    1. Catesian to Frenet Frame<br>
+    2. Make Path List<br> 
+    3. Make Obstacle List<br>
+    4. Decision Path<br>
+    5. Frenet to Catesian Frame<br>
+    6. Catesian to GlobalFrame<br><br>
+    [Driving Control]<br>
+    1. PD Speed Control<br>
+    2. Pure Pursuit Steering Control<br></td>
+    <td>
+    <img src="https://github.com/user-attachments/assets/dbe79140-e5d9-492e-b744-44bad299327b" width="100%" height="100%" align="center">
+    </td>
+  </tr>
+</table>
 
 ## 3) Parking
 <img src="https://github.com/user-attachments/assets/90c29945-feaf-4cf2-99a7-958797673dd1" width="30%" height="30%">
