@@ -8,11 +8,24 @@
 </table>
 <br/>
 
-# 프로젝트 소개
-기존의 아날로그 보드게임은 직접 말을 움직여야 하는 번거로움이 있고 이러한 단점을 개선한 온라인 보드게임은 사용자가 직접 참여한다는 재미 요소가 사라졌다. 이러한 점을 개선하여 졸업작품으로 아날로그 보드게임과 디지털 보드게임의 장점을 결합한 프로젝트를 기획했다.<br><br>
-Yolov5 객체인식 딥러닝 모델로 실시간으로 주사위 값을 인식해 데스크톱 상의 보드게임을 진행한다. <br><br>
-<img src="https://github.com/user-attachments/assets/a2d034c6-f529-413b-9133-69bed681ff65"> <br><br>
+## 프로젝트 소개
+Detection Data와 Localization 정보를 기반으로 Planning과 Control을 하여 주어진 시뮬레이션 환경에서 4가지 미션을 수행하는 프로젝트<br><br>
+<img src="https://github.com/user-attachments/assets/db77e071-a570-49e5-aec3-dc25d3a6dd1e" width="50%" height="50%"> <br><br>
+
+## SW Architecture
+<figure class="half">
+  <a href="link"><img src="https://github.com/user-attachments/assets/a59c2330-f737-4756-82e6-4f2e3a5eb300" width="40%" height="40%"></a>
+  <a href="link"><img src="https://github.com/user-attachments/assets/79e8b57b-ceee-4dc7-a2c6-ecab1ebd8f14" width="45%" height="45%"></a>
+</figure>
 
 
-# 시연영상
-<img src="https://github.com/user-attachments/assets/202e0df7-ace1-48e7-9d9e-dedc2d1f1fa6">
+## 1) Global Path Planning
+Global Path Planning을 위한 경로 탐색 알고리즘 비교 후 A star 알고리즘 적용<br><br>
+<img src="https://github.com/user-attachments/assets/fb25a0ac-b8d4-413f-bd17-0048b65ffc73" width="50%" height="50%">
+
+## 2) Driving
+
+## 3) Parking
+
+## 시연영상
+https://youtu.be/TwMqGNApJog
