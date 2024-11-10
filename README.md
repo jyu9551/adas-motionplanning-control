@@ -1,4 +1,4 @@
-#  주제 : ADAS/자율주행 - Path Planning & Control
+#  주제 : 자율주행/ADAS - Path Planning & Control
 
 <table width=80%>
   <tr><td><b>프로젝트 기간</b></td><td><b>프로젝트원</b></td><td><b>수행 역할</b></td>
