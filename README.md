@@ -45,7 +45,7 @@ Global Path Planning을 위한 경로 탐색 알고리즘 비교 후 A star 알�
 
   <tr>
     <td width=45%>
-      Collision Avoidence<br>
+      Collision Check<br>
     </td>
     <td>
     <img src="https://github.com/user-attachments/assets/fcb19292-3abd-41d6-980b-72ba20774f39" width="80%" height="80%" align="center">
